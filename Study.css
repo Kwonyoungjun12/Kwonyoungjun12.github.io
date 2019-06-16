@@ -73,7 +73,7 @@ body {
     font-family: 'Gothic A1', sans-serif;
   }
   
-  h1,h2,h3,h4,h5,h6 {
+  h2,h3,h4,h5,h6 {
     font-family: 'Gothic A1', sans-serif;
     font-weight: 700;
     line-height: 1.2;
@@ -84,9 +84,10 @@ body {
     padding-bottom: .35em;
   }
   
- article a {
+  article a {
     text-decoration: none;
-   
+    font-weight: bold;
+    font-weight: 400;
   }
   
   .widthWrapper {
