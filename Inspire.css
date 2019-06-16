@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+  /* navbar */
+header{
+    height: 75px; 
+    background-color: white; 
+    border: 1px solid #c1c1c1; 
+    position: fixed; width: 100%;
+    z-index: 9999; 
+    top: 0; 
+    left: 0;
+}
+.main {
+  font-size: 16px;
+  color: rgb(88,89,91);
+  font-weight: 900;
+  font-family: "Helvetica", sans-serif;
+  text-decoration: none;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.others {
+  font-size: 16px;
+  color: rgb(88,89,91);
+  font-weight: 300;
+  font-family: "Helvetica", sans-serif;
+  text-decoration: none;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+h1 a{
+    color: black; 
+    line-height: 75px; 
+    float: left; 
+    font-size: 25px;
+    text-decoration: none;
+}
+.menu{
+    float: right;
+}
+.menu li{
+    float: left;
+    list-style: none;
+}
+.menu a{
+    display: block;
+    line-height: 75px; 
+    color: black; 
+    padding: 0 15px; 
+    display: block;
+    text-decoration: none;
+}
+
+.navbar{
+    width: 1336px; 
+    margin: 0 auto;
+
+}
+.con img{
+  float: left;
+  
+}
+
+body {
+    margin: 0;
+  }
+
+.footer{
+  line-height: 50px;
+  height: 100px;
+  width: 1336px; 
+  margin: 0 auto;
+  }
