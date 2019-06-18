@@ -70,6 +70,12 @@ body {
     margin: 0;
   }
 
+video{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .footer{
   line-height: 50px;
   height: 100px;
